@@ -37,9 +37,13 @@ Project Tools:
 Concepts used:
 
 •	Computer Vision: Image and video processing techniques.
+
 •	Deep Learning: Use of convolutional neural networks (CNNs) for object detection.
+
 •	Real-Time Processing: Techniques for handling and processing video frames in real time.
+
 •	OpenCV: Library for computer vision tasks.
+
 •	TensorFlow/PyTorch: Frameworks for implementing and training deep learning models.
 
 Operations Performed:
