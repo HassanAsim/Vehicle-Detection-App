@@ -16,10 +16,14 @@ Detection results, including the type of vehicle, confidence score, and bounding
 The processed video, with detected vehicles highlighted, is saved to an output file and displayed in real-time.
 
 Project Scope:
-The Real-Time Vehicle Detection Application aims to provide a comprehensive solution for detecting and classifying vehicles in various environments. The scope includes:
+The Real-Time Vehicle Detection Application aims to provide a comprehensive solution for detecting and classifying vehicles in various environments. 
+The scope includes:
 •	Vehicle Detection: Identifying and classifying different types of vehicles such as cars, trucks, motorcycles, buses, and vans.
+
 •	Real-Time Processing: Ensuring that vehicle detection occurs in real-time, suitable for applications in traffic monitoring and autonomous driving.
+
 •	User Interface: Providing a user-friendly interface for video selection, configuration of detection parameters, and visualization of results.
+
 •	Scalability: Designing the system to be scalable, allowing for integration with more advanced models and additional functionalities in the future.
 
 Project Tools:
