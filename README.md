@@ -29,10 +29,13 @@ The scope includes:
 •	Scalability: Designing the system to be scalable, allowing for integration with more advanced models and additional functionalities in the future.
 
 Project Tools:
+
 •	Programming Language: Python
+
 •	IDE: VS Code
 
 Concepts used:
+
 •	Computer Vision: Image and video processing techniques.
 •	Deep Learning: Use of convolutional neural networks (CNNs) for object detection.
 •	Real-Time Processing: Techniques for handling and processing video frames in real time.
