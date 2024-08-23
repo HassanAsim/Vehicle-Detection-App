@@ -40,6 +40,7 @@ Operations Performed:
 4)	Display: Show the processed video with real-time detections.
 
 Application Snapshots:
+
 GUI:
 ![image](https://github.com/user-attachments/assets/7553188d-6b40-424d-a953-22e6f5e641a3)
 
