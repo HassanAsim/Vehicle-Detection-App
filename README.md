@@ -52,8 +52,37 @@ The Real-Time Vehicle Detection Application aims to provide a comprehensive solu
 ![image](https://github.com/user-attachments/assets/d06e829a-1acb-42ff-9972-ba5c59abb580)
 ![image](https://github.com/user-attachments/assets/4a741725-62e7-4486-89b9-b588c849e011)
 
+## How to Run
 
+### Prerequisites
+1. Python 3.8 or higher
+2. Git (optional, for cloning the repository)
+3. CUDA-capable GPU (recommended for better performance)
 
+### Installation Steps
+1. Clone the repository or download the project files:
+```bash
+git clone https://github.com/HassanAsim/Vehicle-Detection-App.git
+```
+2. Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
 
+### Running the Application
+1. For GPU-accelerated detection:
+```bash
+python Vehicle_Detection_GPU.py
+```
+2. For CPU-only detection:
+```bash
+python Vehicle_Detection_App.py
+```
 
-
+### Using the Application
+1. Launch the application using one of the commands above
+2. Click the "Select Video" button to select an input video file from the Videos folder
+3. Adjust the confidence threshold if needed (default is typically suitable)
+4. Click "Start Detection" to begin processing
+5. The processed video will be saved in the Outputs folder
+6. View real-time detection results in the application window
