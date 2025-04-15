@@ -1,6 +1,0 @@
-__pycache__/
-*.pyc
-*.log
-Outputs/*.mp4
-Videos/*.mp4
-models/*
